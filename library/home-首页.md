@@ -14,11 +14,10 @@
 
 洛谷3于2016年春上线，使用了现代化设计的前端，非常注重用户体验，并且增加了很多新功能。
 
+***
 
-
-**Luogu Wiki** 由 [Baoxuanming](https://www.luogu.com.cn/user/394886) 基于 [amWiki](http://amwiki.org/) 搭建的关于 [洛谷](https://www.luogu.com.cn/) 的 Wiki网站。网站包含了洛谷各种功能的使用方法以及一些插件的使用。网站中可能有一些内容引用了洛谷或其他网站上的帖子、博客，会在文章中注明。若有侵权，请联系作者删除。
+而 **Luogu Wiki** 则是由 [Baoxuanming](https://www.luogu.com.cn/user/394886) 基于 [amWiki](http://amwiki.org/) 搭建的关于 [洛谷](https://www.luogu.com.cn/) 的 Wiki网站。网站包含了洛谷各种功能的使用方法以及一些插件的使用。网站中可能有一些内容引用了洛谷或其他网站上的帖子、博客，会在文章中注明。若有侵权，请联系作者删除。
 
 
 
 最后，希望您有一个愉快的浏览体验！
->>>>>>> d38fdfd ('')
